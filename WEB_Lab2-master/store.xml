@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+<device power_consumption="1000" weight="10" capacity="32" depth="60" height="65.5" width="69.5" price="10">Oven</device>
+<device power_consumption="1500" weight="12" capacity="33" depth="60" height="45" width="68" price="12">Oven</device>
+<device power_consumption="2000" weight="11" capacity="33" depth="60" height="40" width="70" price="13">Oven</device>
+
+<device power_consumption="1500" corpus="glass" capacity="1" price="10">Teapot</device>
+<device power_consumption="1800" corpus="plastic" capacity="1.5" price="15">Teapot</device>
+<device power_consumption="2000" corpus="iron" capacity="2" price="20">Teapot</device>
+
+<device battery_capacity="1" os="Windows" memory_rom="4000" system_memory="1000" cpu="1.2" display_inches="18" price="100">Laptop</device>
+<device battery_capacity="1.5" os="Linux" memory_rom="8000" system_memory="1000" cpu="2.2" display_inches="19" price="120">Laptop</device>
+<device battery_capacity="3" os="Windows" memory_rom="8000" system_memory="1500" cpu="3.2" display_inches="22" price="150">Laptop</device>
+
+<device power_consumption="100" weight="20" freazer_capacity="10" overall_capacity="300" height="200" width="70" price="200">Refrigerator</device>
+<device power_consumption="200" weight="30" freazer_capacity="15" overall_capacity="300" height="180" width="80" price="200">Refrigerator</device>
+<device power_consumption="150" weight="35" freazer_capacity="20" overall_capacity="350.5" height="250" width="75" price="240">Refrigerator</device>
+
+
+<device power_consumption="100" filter_type="A" bag_type="A2" wand_type="all-in-one" motor_speed_regulation="3000" cleaning_width="20" price="150">VacuumCleaner</device>
+<device power_consumption="110" filter_type="B" bag_type="AA-89" wand_type="all-in-one" motor_speed_regulation="2900" cleaning_width="25" price="130">VacuumCleaner</device>
+<device power_consumption="90" filter_type="C" bag_type="XX-00" wand_type="all-in-one" motor_speed_regulation="2950" cleaning_width="30" price="170">VacuumCleaner</device>
+
+
+<device battery_capacity="3" display_inches="14" memory_rom="8000" flash_memory_capacity="2" color="blue" price="15">TabletPC</device>
+<device battery_capacity="4" display_inches="15" memory_rom="8000" flash_memory_capacity="6" color="red" price="18">TabletPC</device>
+<device battery_capacity="5" display_inches="16" memory_rom="16000" flash_memory_capacity="8" color="green" price="12">TabletPC</device>
+
+<device power_consumption="15" number_of_speakers="2" frequency-range="2-4" cord_length="2" price="27">Speakers</device>
+<device power_consumption="20" number_of_speakers="3" frequency-range="3-4" cord_length="3" price="27">Speakers</device>
+<device power_consumption="17" number_of_speakers="4" frequency-range="2-3.5" cord_length="4" price="30">Speakers</device>
+
+</root>
